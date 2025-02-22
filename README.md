@@ -15,4 +15,5 @@ A modern shopping list application built with Flutter that allows users to manag
 
 1. Clone the repository:
 ```sh
-git clone [repository-uhttps://github.com/harshhsaini/flutter-shopping-list/edit/master/README.mdrl]
+git clone https://github.com/harshhsaini/flutter-shopping-list
+
